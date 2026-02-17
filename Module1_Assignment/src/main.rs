@@ -1,4 +1,4 @@
-// Did all 3 Assignments on here
+// Did all 3 Assignments on here, commented out to run each indiviudally 
 
 // // Assignment 1: Temperature Converter
 
